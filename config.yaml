@@ -1,0 +1,24 @@
+teams:
+  - name: lf-staff
+    maintainers:
+      - jwagantall
+      - ryjones
+    members: []
+  - name: pdp-connect-maintainers
+    maintainers:
+      - ryjones
+    members:
+      - annakaz
+      - artvana
+      - tnunamak
+repositories:
+  - name: .github
+    teams:
+      lf-staff: maintain
+      pdp-connect-maintainers: maintain
+    visibility: public
+  - name: governance
+    teams:
+      lf-staff: maintain
+      pdp-connect-maintainers: maintain
+    visibility: public
