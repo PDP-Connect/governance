@@ -11,6 +11,10 @@ teams:
       - annakaz
       - artvana
       - tnunamak
+      - volod-vana
+      - letonchanh
+      - maciejwitowski
+      - Kahtaf
 repositories:
   - name: .github
     teams:
