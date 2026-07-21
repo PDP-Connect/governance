@@ -26,3 +26,18 @@ repositories:
       lf-staff: maintain
       pdp-connect-maintainers: maintain
     visibility: public
+  - name: pdpp
+    teams:
+      lf-staff: maintain
+      pdp-connect-maintainers: maintain
+    visibility: public
+  - name: data-connect
+    teams:
+      lf-staff: maintain
+      pdp-connect-maintainers: maintain
+    visibility: public
+  - name: data-connectors
+    teams:
+      lf-staff: maintain
+      pdp-connect-maintainers: maintain
+    visibility: public
