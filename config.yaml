@@ -14,6 +14,7 @@ teams:
       - letonchanh
       - maciejwitowski
       - Kahtaf
+      - callumflack
 repositories:
   - name: .github
     teams:
