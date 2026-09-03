@@ -41,3 +41,8 @@ repositories:
       lf-staff: maintain
       pdp-connect-maintainers: maintain
     visibility: public
+  - name: supporters-private
+    teams:
+      lf-staff: maintain
+      pdp-connect-maintainers: maintain
+    visibility: private
